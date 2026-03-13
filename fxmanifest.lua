@@ -6,7 +6,7 @@ description 'Court Evidence Recording & Playback — addon for bonez-bodycam'
 version     '2.0.0'
 author      'Bonez Workshop'
 
-dependency  'Bonez-Bodycam'
+dependency  'bonez-bodycam'
 dependency  'night_ers'
 
 optional_dependency 'oxmysql'
